@@ -1,1 +1,1 @@
-# Random-Sentence-generator
+# Javascript Project
